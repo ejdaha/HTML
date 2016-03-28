@@ -1,5 +1,5 @@
 
-#For Order List use the code below:
+<!--->or Order List use the code below:--->
 <ul>
   <ol>
   <li>cat nip</li>
@@ -7,4 +7,8 @@
   <li>lasagna</li>
     <ol>
 </ul>
-<p>Top
+
+#to input TEXT Self-closing element
+<input type="text"> 
+
+<input type="text" placeholder="cat photo URL"> placeholder-for explanation 
