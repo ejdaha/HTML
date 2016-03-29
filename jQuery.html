@@ -22,3 +22,10 @@
       $("#target1").prop("disabled", true);
 
 <--  jQuery has a function called clone() that makes a copy of an element.-->
+
+<-- to make a change in children--
+$("#left-well").children().css("color", "blue")
+
+<--jQuery uses CSS Selectors to target elements. target:nth-child(n)-->
+  
+  $(".target:nth-child(3)").addClass("animated bounce");
